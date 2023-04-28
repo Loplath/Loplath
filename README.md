@@ -5,4 +5,4 @@
 - discord: hayden💗#8833
 
 
-[![lop's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loplath&show_icons=true&theme=dark)](https://github.com/Loplath/github-readme-stats&count_private=true) 
+[![lop's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loplath&show_icons=true&theme=dark&count_private=true)](https://github.com/Loplath/github-readme-stats) 
