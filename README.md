@@ -1,7 +1,7 @@
 - hellow. i'm lath. The Ultimate Melorist.
 - i'm interested in making things.
-- i'm learning renpy at the moment.
-- i work only with friends.
+- i'm learning renpy at the moment for visual novel use.
+- i largely just work only with friends and acquantainces. 
 - discord: hayden💗#8833
 
 
