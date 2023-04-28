@@ -3,8 +3,4 @@
 - i'm learning renpy at the moment.
 - i work only with friends.
 - discord: hayden💗#8833
-
-<!---
-Loplath/Loplath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![lop's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loplath&show_icons=true&theme=dark)](https://github.com/Loplath/github-readme-stats&count_private=true) 
